@@ -19,8 +19,11 @@
 -  📫 How to reach me:  <br />
   gmail: alex.mav.80@gmail.com <br /> 
   twitter: @AlkxsLau
-<!-- [<img align="left" alt="AlexLauri" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="AlkxsLau | Twitter" width="22px" src="./twitter.svg" />][twitter]
+  
+  <a href="https://www.facebook.com/alex.lauri/" target="blank"><<img align="left" alt="AlexLauri" width="22px" src="./gmail.svg" /></a>
+  
+
+<!-- [<img align="left" alt="AlkxsLau | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="AlexLauri | Facebook" width="22px" src="./facebook.svg" />][facebook] -->
 - :zap: Fan fact: I love to play sports and read personal development books 
 ---
