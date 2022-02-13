@@ -19,7 +19,6 @@
 -  📫 How to reach me: 
    <br />
    <br />
-   <br />
   <a href="https://www.facebook.com/alex.lauri/" target="blank"><img align="left" alt="AlexLauri" width="22px" src="./facebook.svg" /></a>
   <a href="mailto: alex.mav.80@gmail.com" target="blank"><img align="left" alt="AlexLauri" width="22px" src="./gmail.svg" /></a>
   <a href="https://twitter.com/AlkxsLau/" target="blank"><img align="left" alt="AlexLauri" width="22px" src="./twitter.svg" /></a>
