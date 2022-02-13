@@ -22,7 +22,7 @@
    <br />
   <a href="https://www.facebook.com/alex.lauri/" target="blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
   <a href="mailto: alex.mav.80@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://twitter.com/AlkxsLau/" target="blank">![Twitter](https://img.shields.io/badge/<Twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+  <a href="https://twitter.com/AlkxsLau/" target="blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
    <br />
 ---
 ## My Stack
