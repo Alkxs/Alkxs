@@ -39,6 +39,6 @@
 
 
 <!-- links to social media -->
-                                                                                                                     [gmail]:   alex.mav.80@gmail.com
-  [twitter]: https://twitter.com/AlkxsLau/                                                                           [facebook]: https://www.facebook.com/alex.lauri/         
+<!--                                                                                                                      [gmail]:   alex.mav.80@gmail.com
+  [twitter]: https://twitter.com/AlkxsLau/                                                                           [facebook]: https://www.facebook.com/alex.lauri/          -->
  
