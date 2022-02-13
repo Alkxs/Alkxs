@@ -16,12 +16,12 @@
 -  🤓 I’m currently reviewing and studying the advanced Javascript concepts from the course 'The Complete JavaScript Course 2022: From Zero to Expert!' (Created by Jonas Schmedtmann)
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 -   🥅  2022 Goals: to find interesting opportunities as a junior front-end web developer
-<!-- -  📫 How to reach me:  
+-  📫 How to reach me:  <br />
   gmail: alex.mav.80@gmail.com, 
-  twitter: @AlkxsLau -->
-[<img align="left" alt="AlexLauri" width="22px" src="./gmail.svg" />][gmail]
+  twitter: @AlkxsLau
+<!-- [<img align="left" alt="AlexLauri" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="AlkxsLau | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="AlexLauri | Facebook" width="22px" src="./facebook.svg" />][facebook]
+[<img align="left" alt="AlexLauri | Facebook" width="22px" src="./facebook.svg" />][facebook] -->
 - :zap: Fan fact: I love to play sports and read personal development books 
 ---
 ## My Stack
@@ -39,6 +39,6 @@
 
 
 <!-- links to social media -->
-                                                                                                                     [gmail]:   alex.mav.80@gmail.com
-  [twitter]: https://twitter.com/AlkxsLau/                                                                           [facebook]: https://www.facebook.com/alex.lauri/         
+<!--                                                                                                                      [gmail]:   alex.mav.80@gmail.com
+  [twitter]: https://twitter.com/AlkxsLau/                                                                           [facebook]: https://www.facebook.com/alex.lauri/          -->
  
