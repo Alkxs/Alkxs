@@ -14,11 +14,12 @@
 - :wave: I'm Alex Lauri, a self-taught web-developer currently learning front-end development.
 -  👨‍💻 I’m currently working on '50 Projects in 50 days' (Created by Brad Traversy & Florin Pop) practicing HTML, CSS and Javascript.
 -  🤓 I’m currently reviewing and studying the advanced Javascript concepts from the course 'The Complete JavaScript Course 2022: From Zero to Expert!' (Created by Jonas Schmedtmann)
--  👯 I’m looking to collaborate on open source projects to contribute, expand my knowledge and find a community 
--  I'm actively looking around to find interesting opportunities as a junior front-end web developer
+-  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
+-   🥅  2022 Goals: to find interesting opportunities as a junior front-end web developer
 -  📫 How to reach me: 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- :zap: Fan fact: I love to play sports and read personal development books 
 ---
 ## My Stack
 ### Languages
