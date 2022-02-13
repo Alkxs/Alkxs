@@ -22,6 +22,8 @@
   <a href="mailto: alex.mav.80@gmail.com" target="blank"><img align="left" alt="AlexLauri" width="22px" src="./gmail.svg" /></a>
   <a href="https://twitter.com/AlkxsLau/" target="blank"><img align="left" alt="AlexLauri" width="22px" src="./twitter.svg" /></a>
  
+ <br />
+ 
 - :zap: Fan fact: I love to play sports and read personal development books 
 ---
 ## My Stack
