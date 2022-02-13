@@ -17,7 +17,7 @@
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 -   🥅  2022 Goals: to find interesting opportunities as a junior front-end web developer
 -  📫 How to reach me: 
-  gmail: alex.mav.80@gmail.com
+  gmail: alex.mav.80@gmail.com, 
   twitter: @AlkxsLau
 <!-- [<img align="left" alt="AlexLauri" width="22px" src="./images/gmail.svg" />][gmail]
 [<img align="left" alt="AlkxsLau | Twitter" width="22px" src="/images/twitter.svg" />][twitter]
