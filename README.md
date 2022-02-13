@@ -19,9 +19,9 @@
 <!-- -  📫 How to reach me:  
   gmail: alex.mav.80@gmail.com, 
   twitter: @AlkxsLau -->
-<!-- [<img align="left" alt="AlexLauri" width="22px" src="./images/gmail.svg" />][gmail]
-[<img align="left" alt="AlkxsLau | Twitter" width="22px" src="/images/twitter.svg" />][twitter]
-[<img align="left" alt="AlexLauri | Facebook" width="22px" src="./images/facebook.svg" />][facebook] -->
+[<img align="left" alt="AlexLauri" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="AlkxsLau | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="AlexLauri | Facebook" width="22px" src="./facebook.svg" />][facebook]
 - :zap: Fan fact: I love to play sports and read personal development books 
 ---
 ## My Stack
@@ -39,6 +39,6 @@
 
 
 <!-- links to social media -->
-<!--                                                                                                                      [gmail]:   alex.mav.80@gmail.com
-  [twitter]: https://twitter.com/AlkxsLau/                                                                           [facebook]: https://www.facebook.com/alex.lauri/          -->
+                                                                                                                     [gmail]:   alex.mav.80@gmail.com
+  [twitter]: https://twitter.com/AlkxsLau/                                                                           [facebook]: https://www.facebook.com/alex.lauri/         
  
