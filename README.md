@@ -17,8 +17,9 @@
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 -   🥅  2022 Goals: to find interesting opportunities as a junior front-end web developer
 -  📫 How to reach me: 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[<img align="left" alt="AlexLauri" width="22px" src="https://user-images.githubusercontent.com/72358387/153775296-f49680bf-41ef-456a-ade7-e231ed780b0f.svg" />][alex.mav.80@gmail.com]
+[<img align="left" alt="AlkxsLau | Twitter" width="22px" src="https://user-images.githubusercontent.com/72358387/153775297-4a60f121-ee0f-40a1-8a97-d817161c19c6.svg" />][https://twitter.com/home]
+[<img align="left" alt="AlexLauri | Facebook" width="22px" src="https://user-images.githubusercontent.com/72358387/153775289-45bcfc92-0eb3-4a71-87a4-b87c271e4003.svg" />][https://www.facebook.com/alex.lauri/]
 - :zap: Fan fact: I love to play sports and read personal development books 
 ---
 ## My Stack
