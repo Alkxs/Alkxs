@@ -16,15 +16,12 @@
 -  🤓 I’m currently reviewing and studying the advanced Javascript concepts from the course 'The Complete JavaScript Course 2022: From Zero to Expert!' (Created by Jonas Schmedtmann)
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 -   🥅  2022 Goals: to find interesting opportunities as a junior front-end web developer
--  📫 How to reach me:  <br />
-  gmail: alex.mav.80@gmail.com <br /> 
-  twitter: @AlkxsLau
+-  📫 How to reach me:
   
-  <a href="https://www.facebook.com/alex.lauri/" target="blank"><<img align="left" alt="AlexLauri" width="22px" src="./gmail.svg" /></a>
-  
-
-<!-- [<img align="left" alt="AlkxsLau | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="AlexLauri | Facebook" width="22px" src="./facebook.svg" />][facebook] -->
+  <a href="https://www.facebook.com/alex.lauri/" target="blank"><<img align="left" alt="AlexLauri" width="22px" src="./facebook.svg" /></a>
+  <a href="mailto: alex.mav.80@gmail.com" target="blank"><<img align="left" alt="AlexLauri" width="22px" src="./gmail.svg" /></a>
+  <a href="https://twitter.com/AlkxsLau/" target="blank"><<img align="left" alt="AlexLauri" width="22px" src="./twitter.svg" /></a>
+ 
 - :zap: Fan fact: I love to play sports and read personal development books 
 ---
 ## My Stack
@@ -40,8 +37,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-<!-- links to social media -->
-<!--                                                                                                                      [gmail]:   alex.mav.80@gmail.com
-  [twitter]: https://twitter.com/AlkxsLau/                                                                           [facebook]: https://www.facebook.com/alex.lauri/          -->
- 
