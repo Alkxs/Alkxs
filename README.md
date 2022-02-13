@@ -1,4 +1,4 @@
- Hi there 👋
+ 
 
 <!--
 
@@ -12,4 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-:rocket: About Me
+## Hi there 👋
+---
+### :rocket: About Me
+---
