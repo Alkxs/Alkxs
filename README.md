@@ -18,7 +18,7 @@
 -   🥅  2022 Goals: to find interesting opportunities as a junior front-end web developer
 -  📫 How to reach me:
   
-  <a href="https://www.facebook.com/alex.lauri/" target="blank"><img align="left" alt="AlexLauri" width="22px" src="./facebook.svg" /></a>
+  <a href="https://www.facebook.com/alex.lauri/" target="blank"><img align="left" alt="AlexLauri" width="22px" background-color="red" src="./facebook.svg" /></a>
   <a href="mailto: alex.mav.80@gmail.com" target="blank"><img align="left" alt="AlexLauri" width="22px" src="./gmail.svg" /></a>
   <a href="https://twitter.com/AlkxsLau/" target="blank"><img align="left" alt="AlexLauri" width="22px" src="./twitter.svg" /></a>
  
