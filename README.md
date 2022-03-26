@@ -14,7 +14,7 @@
 - :wave: I'm Alex Lauri, a self-taught web-developer currently learning front-end development.
 -  👨‍💻 I’m currently working on '50 Projects in 50 days' (Created by Brad Traversy & Florin Pop) practicing HTML, CSS and Javascript.
 -  🤓 I’m currently reviewing and studying the advanced Javascript concepts from the course 'The Complete JavaScript Course 2022: From Zero to Expert!' (Created by Jonas Schmedtmann)
--  🤓 I’m currently reviewing the advanced CSS concepts from the course 'Advanced CSS and Sass: Flexbox, Grid, Animations and More!' (Created by Jonas Schmedtmann)
+-  🤓 I’m about to start the Full Stack Open 2022 course made available by the University of Helsinki, main focus on single web page application using ReactJS
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 -   🥅  2022 Goals: to find interesting opportunities as a junior front-end web developer
 -  :zap: Fan fact: I love to play sports and read personal development books 
