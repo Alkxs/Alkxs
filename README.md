@@ -11,9 +11,9 @@
 ---
 ### :rocket: About Me
 ---
-- :wave: I'm Alex Lauri, a self-taught web-developer currently learning front-end development.
--  👨‍💻 I'm getting my hands dirty by building projects in pure vanilla javascript.
--  🤓 I’m currently reviewing and studying the advanced Javascript concepts from the course 'The Complete JavaScript Course 2022: From Zero to Expert!' (Created by Jonas Schmedtmann)
+- :wave: I'm Alex Lauri, a self-taught web-developer currently learning front-end development
+-  👨‍💻 I'm getting my hands dirty by building projects in pure vanilla javascript
+-  🤓 I’m about to start learning tailwindcss as a main css framework
 -  🤓 I’m working on "Full Stack Open 2022 course made available by the University of Helsinki, main focus on single web page application using ReactJS
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 -   🥅  2022 Goals: to find interesting opportunities as a junior front-end web developer
