@@ -13,7 +13,7 @@
 ---
 - :wave: I'm Alex Lauri, a self-taught web-developer currently learning front-end development
 -  👨‍💻 I'm getting my hands dirty by building projects in pure vanilla javascript
--  🤓 I’m about to start learning tailwindcss as a main css framework
+-  🤓 I’ve just completed the 'Tailwind CSS From Scratch | Learn By Building Projects' course by Brad Traversy and I'm currently building my own project 
 -  🤓 I’m working on "Full Stack Open 2022 course made available by the University of Helsinki, main focus on single web page application using ReactJS
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 -   🥅  2022 Goals: to find interesting opportunities as a junior front-end web developer
@@ -33,6 +33,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind]([https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white))
 ### Workspace Setup
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ### DevOps
