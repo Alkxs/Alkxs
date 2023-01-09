@@ -11,19 +11,18 @@
 ---
 ### :rocket: About Me
 ---
-- :wave: I'm Alex Lauri, a self-taught web-developer currently learning front-end development
--  👨‍💻 I'm getting my hands dirty by building projects in pure vanilla javascript
--  🤓 I’ve just completed the 'Tailwind CSS From Scratch | Learn By Building Projects' course by Brad Traversy and I'm currently building my own project 
+- :wave: I'm Alex Lauri, a self-taught web-developer currently
+-  👨‍💻 I'm getting my hands dirty by practising React.js, following the React course on Scrimba
 -  🤓 I’m working on "Full Stack Open 2022 course made available by the University of Helsinki, main focus on single web page application using ReactJS
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
--   🥅  2022 Goals: to find interesting opportunities as a junior front-end web developer
+-   🥅  2023 Goals: to find interesting opportunities as a web developer
 -  :zap: Fan fact: I love to play sports and read personal development books 
 -  📫 How to reach me: 
    <br />
    <br />
   <a href="https://www.facebook.com/alex.lauri/" target="blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
   <a href="mailto: alex.mav.80@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://twitter.com/AlkxsLau/" target="blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+  <a href="https://twitter.com/Alex_Lauri_" target="blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
    <br />
 ---
 ## My Stack
