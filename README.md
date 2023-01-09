@@ -12,7 +12,8 @@
 ### :rocket: About Me
 ---
 - :wave: I'm Alex Lauri, a self-taught web-developer
--  👨‍💻 I'm getting my hands dirty by practising React.js, following the React course on Scrimba
+-  ⚡️  Part of the amazing 100Devs community
+-  👨‍💻 I'm following the React course on Scrimba
 -  🤓 I’m working on "Full Stack Open 2022 course made available by the University of Helsinki, main focus on single web page application using ReactJS
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 -   🥅  2023 Goals: to find interesting opportunities as a web developer
