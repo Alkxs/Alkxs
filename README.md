@@ -17,7 +17,7 @@
 -  🤓 I’m working on "Full Stack Open 2022 course made available by the University of Helsinki, main focus on single web page application using ReactJS
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 -   🥅  2023 Goals: to find interesting opportunities as a web developer
--  :zap: Fan fact: I love to play sports and read personal development books 
+-  :zap: Fun fact: I love to play sports and read personal development books 
 -  📫 How to reach me: 
    <br />
    <br />
