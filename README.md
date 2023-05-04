@@ -2,6 +2,8 @@
 ---
 ### :rocket: About Me
 ---
+<div style="width: 50%; margin: 0 auto;">
+  
 - :wave: I'm Alex Lauri, a full-stack web developer
 - ⚡️  Proud member of the incredible 100Devs community.
 - 👨‍💻 I'm currently refining my skills in Data Structures and Algorithms.
@@ -16,6 +18,8 @@
 <a href="mailto: alex.mav.80@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://twitter.com/Alex_Lauri_" target="blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/alexlauri/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  
+</div>
   
 <br />
 
