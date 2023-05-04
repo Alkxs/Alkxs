@@ -52,15 +52,6 @@
 
 <br />
 
-
-<h1 align="center">My Stats</h1>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark" alt="GitHub Streak">
-  </a>
-</div>
-
 <h1 align="center">My Projects</h1>
 
 <table width="100%">
@@ -82,6 +73,15 @@
     </td>
   </tr>
 </table>
+<br />
+
+<h1 align="center">My Stats</h1>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark" alt="GitHub Streak">
+  </a>
+</div>
 
 
 
