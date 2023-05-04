@@ -66,19 +66,19 @@
 <table width="100%">
   <tr>
     <td width="33.33%" align="center">
-      <h3>Project 1</h3>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBmNzdiNmIyZTcwNWI5ZjQ5YzljMDhhN2FiZDdiZWE1YWZlYmJmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/H4duQ9k8aLjhq1JPb0/giphy.gif" width="100%">
-      <p>Project 1 description.</p>
+      <h3>TheraFit</h3>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgzZGQ4YjhlNmI2NTQ3ZjkwYTJlZjQ0NTM0MjUyYWI4OGMyZGJjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/w4C3dJPr8J58eMncd5/giphy.gif" alt="TheraFit GIF" width="100%">
+      <p><span style="font-size: 0.9em;">A workout planner that allows you to create, modify, and delete workouts, as well as customize exercises and their order for a personalized fitness experience.</span></p>
     </td>
     <td width="33.33%" align="center">
-      <h3>Project 2</h3>
-      <img src="https://link-to-your-project-2-gif.com" alt="Project 2 GIF" width="100%">
-      <p>Project 2 description.</p>
+      <h3>Portfolio</h3>
+      <img src="[https://link-to-your-project-2-gif.com](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ2OGRhYmNkYTQ1NTNkNDlhZWQxZWEzZTk5MGFjYzQ2MDY5OTkxZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/51gUsjbUcl7kRshN0B/giphy.gif)" alt="Portfolio GIF" width="100%">
+      <p><span style="font-size: 0.9em;">My portfolio app built and designed from scratch, to showcase my skills and projects.</span></p>
     </td>
     <td width="33.33%" align="center">
-      <h3>Project 3</h3>
-      <img src="https://link-to-your-project-3-gif.com" alt="Project 3 GIF" width="100%">
-      <p>Project 3 description.</p>
+      <h3>Quizzle</h3>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlYWRjNzM2Y2JmNjVkMDEwZmFiNzg5NTM0OTg0ZmNkOWFhYTJkMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uE0yv44dqz9dkNymPW/giphy.gif" alt="Quizzle GIF" width="100%">
+      <p><span style="font-size: 0.9em;">An immersive quiz app providing a customized trivia experience, enabling you to select options and challenge yourself.</span></p>
     </td>
   </tr>
 </table>
