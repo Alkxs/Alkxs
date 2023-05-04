@@ -61,13 +61,13 @@
   </a>
 </div>
 
-<!-- <h1 align="center">My Projects</h1>
+<h1 align="center">My Projects</h1>
 
 <table width="100%">
   <tr>
     <td width="33.33%" align="center">
       <h3>Project 1</h3>
-      <img src="https://link-to-your-project-1-gif.com" alt="Project 1 GIF" width="100%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBmNzdiNmIyZTcwNWI5ZjQ5YzljMDhhN2FiZDdiZWE1YWZlYmJmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/H4duQ9k8aLjhq1JPb0/giphy.gif" width="100%">
       <p>Project 1 description.</p>
     </td>
     <td width="33.33%" align="center">
@@ -81,7 +81,7 @@
       <p>Project 3 description.</p>
     </td>
   </tr>
-</table> -->
+</table>
 
 
 
