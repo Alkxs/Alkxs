@@ -1,14 +1,11 @@
 <div align="center"><img src="./Header.png" width="100%"></div>
 
 <div style="width: 50%; margin: 0 auto;">
-  
 
 
 <h1 align="center">About Me</h1>
   
 
-
-  
 - :wave: I'm Alex Lauri, a full-stack web developer
 - ⚡️  Proud member of the incredible 100Devs community.
 - 👨‍💻 I'm currently refining my skills in Data Structures and Algorithms.
@@ -56,16 +53,41 @@
 <br />
 
 
-<h1 align="center">My Stack</h1>
-
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark)](https://git.io/streak-stats) -->
+<h1 align="center">My Stats</h1>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark" alt="GitHub Streak">
   </a>
 </div>
+
+<h1 align="center">My Projects</h1>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>Project 1</h3>
+      <img src="https://link-to-your-project-1-gif.com" alt="Project 1 GIF" width="100%">
+      <p>Project 1 description line 1.</p>
+      <p>Project 1 description line 2.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Project 2</h3>
+      <img src="https://link-to-your-project-2-gif.com" alt="Project 2 GIF" width="100%">
+      <p>Project 2 description line 1.</p>
+      <p>Project 2 description line 2.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>Project 3</h3>
+      <img src="https://link-to-your-project-3-gif.com" alt="Project 3 GIF" width="100%">
+      <p>Project 3 description line 1.</p>
+      <p>Project 3 description line 2.</p>
+    </td>
+  </tr>
+</table>
+
 
 
 
