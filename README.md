@@ -1,13 +1,7 @@
  
 
-<!--
-- 💬 Ask me about ...
--  ...
 
-- ⚡ Fun fact: ...
--->
-
-## Hi there 👋
+![Header](./github-header-image.png)
 ---
 ### :rocket: About Me
 ---
