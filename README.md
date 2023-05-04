@@ -61,7 +61,7 @@
   </a>
 </div>
 
-<h1 align="center">My Projects</h1>
+<!-- <h1 align="center">My Projects</h1>
 
 <table width="100%">
   <tr>
@@ -81,7 +81,7 @@
       <p>Project 3 description.</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
