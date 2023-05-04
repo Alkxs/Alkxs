@@ -1,8 +1,13 @@
 <div align="center"><img src="./Header.png"></div>
----
-### :rocket: About Me
----
+
 <div style="width: 50%; margin: 0 auto;">
+  
+---
+
+### :rocket: About Me
+  
+---
+
   
 - :wave: I'm Alex Lauri, a full-stack web developer
 - ⚡️  Proud member of the incredible 100Devs community.
