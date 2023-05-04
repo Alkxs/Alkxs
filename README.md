@@ -1,4 +1,4 @@
-<div> <img src="./Header.png" width="100%" height="70%"> </div>
+<div align="center"><img src="./Header.png"></div>
 ---
 ### :rocket: About Me
 ---
