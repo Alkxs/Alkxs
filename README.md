@@ -65,28 +65,24 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="33.33%" align="center">
       <h3>Project 1</h3>
       <img src="https://link-to-your-project-1-gif.com" alt="Project 1 GIF" width="100%">
-      <p>Project 1 description line 1.</p>
-      <p>Project 1 description line 2.</p>
+      <p>Project 1 description.</p>
     </td>
-    <td width="50%" align="center">
+    <td width="33.33%" align="center">
       <h3>Project 2</h3>
       <img src="https://link-to-your-project-2-gif.com" alt="Project 2 GIF" width="100%">
-      <p>Project 2 description line 1.</p>
-      <p>Project 2 description line 2.</p>
+      <p>Project 2 description.</p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td width="33.33%" align="center">
       <h3>Project 3</h3>
       <img src="https://link-to-your-project-3-gif.com" alt="Project 3 GIF" width="100%">
-      <p>Project 3 description line 1.</p>
-      <p>Project 3 description line 2.</p>
+      <p>Project 3 description.</p>
     </td>
   </tr>
 </table>
+
 
 
 
