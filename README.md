@@ -4,7 +4,7 @@
   
 ---
 
-### :rocket: About Me
+<h1 align="center">About Me</h1>
   
 ---
 
@@ -29,7 +29,9 @@
 <br />
 
 ---
-## My Stack
+<h1 align="center">My Stack</h1>
+---
+
 ### Front-End Development 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,10 +55,64 @@
 
 <br />
 
+---
+<h1 align="center">My Stack</h1>
+---
+
 <div align="center" width="100%">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark)](https://git.io/streak-stats)
-
 </div>
+
+---
+<h1 align="center">Projects</h1>
+---
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">TheraFit</h3>
+      <br />
+      <a target="_blank" href="https://therafit.netlify.app/">
+            <img src="#" width="100%" alt="TheraFit App"/>
+        </a>
+        <br />
+        <p align="center">
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+      <br />
+      <a target="_blank" href="https://alexlauri-portfolio.netlify.app/">
+            <img src="#" width="100%" alt="Portfolio App"/>
+        </a>
+        <br />
+        <p align="center">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <!-- Empty cell to center the third project -->
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3 align="center">Quizzle</h3>
+      <br />
+      <a target="_blank" href="https://quizzle-app.netlify.app/">
+            <img src="#" width="100%" alt="Quizz App"/>
+        </a>
+        <br />
+        <p align="center">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <!-- Empty cell to shift the third project up -->
+    </td>
+  </tr>
+
+</table>
 
 
