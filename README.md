@@ -1,6 +1,5 @@
 
-<img src="./Header.png" width="100%" height="70%">
----
+
 ### :rocket: About Me
 ---
 - :wave: I'm Alex Lauri, a full-stack web developer
