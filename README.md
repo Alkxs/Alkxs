@@ -53,7 +53,7 @@
 
 <br />
 
-<div align="center">
+<div align="center" width="100%">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark)](https://git.io/streak-stats)
 
