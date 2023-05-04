@@ -19,26 +19,13 @@
 -   🥅  2023 Goals: to find interesting opportunities as a web developer
 -  :zap: Fun fact: I love to play sports and read personal development books 
 -  📫 How to reach me: 
-   <!-- Centered badges using a table -->
-<table>
-  <tr>
-    <td>
-      <a href="mailto: alex.mav.80@gmail.com" target="blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://twitter.com/Alex_Lauri_" target="blank">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/alexlauri/" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<br />
+<br />
+<br />
+<a href="mailto: alex.mav.80@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://twitter.com/Alex_Lauri_" target="blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/alexlauri/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<br />
 
 ---
 ## My Stack
