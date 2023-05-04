@@ -59,8 +59,8 @@
 <h1 align="center">My Stack</h1>
 
 
-<div align="center"> 
-![GitHub Streak](https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark)](https://git.io/streak-stats)
 </div>
 
 
