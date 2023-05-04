@@ -1,17 +1,16 @@
 
 <img src="./Header.png" width="100%" height="70%">
-<br />
 ---
 ### :rocket: About Me
 ---
-- :wave: I'm Alex Lauri, a full-stack web developer
--  ⚡️  Proud member of the incredible 100Devs community.
--  👨‍💻 I'm currently refining my skills in Data Structures and Algorithms.
--  🤓 I’m about to start learning TypeScript
--  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
--   🥅  2023 Goals: to find interesting opportunities as a web developer
--  :zap: Fun fact: I love to play sports and read personal development books 
--  📫 How to reach me: 
+- &nbsp :wave: I'm Alex Lauri, a full-stack web developer
+- &nbsp ⚡️  Proud member of the incredible 100Devs community.
+- &nbsp  👨‍💻 I'm currently refining my skills in Data Structures and Algorithms.
+- &nbsp  🤓 I’m about to start learning TypeScript
+- &nbsp 👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
+- &nbsp   🥅  2023 Goals: to find interesting opportunities as a web developer
+- &nbsp :zap: Fun fact: I love to play sports and read personal development books 
+- &nbsp  📫 How to reach me: 
 
 <br />
 
