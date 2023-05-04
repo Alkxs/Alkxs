@@ -11,21 +11,25 @@
 ---
 ### :rocket: About Me
 ---
-- :wave: I'm Alex Lauri, a fullstack web-developer
--  ⚡️  Part of the amazing 100Devs community
--  👨‍💻 I'm currently building my personal portfolio
--  🤓 I’m working on "Full Stack Open 2022 course made available by the University of Helsinki, main focus on single web page application using ReactJS
+- :wave: I'm Alex Lauri, a full-stack web developer
+-  ⚡️  Proud member of the incredible 100Devs community.
+-  👨‍💻 I'm currently refining my skills in Data Structures and Algorithms.
+-  🤓 I’m about to start learning TypeScript
 -  👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 -   🥅  2023 Goals: to find interesting opportunities as a web developer
 -  :zap: Fun fact: I love to play sports and read personal development books 
 -  📫 How to reach me: 
    <br />
    <br />
-  <a href="https://www.facebook.com/alex.lauri/" target="blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+   
+   <div align="center">
+ 
   <a href="mailto: alex.mav.80@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://twitter.com/Alex_Lauri_" target="blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/alexlauri/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
    <br />
+ 
+ </div>
 ---
 ## My Stack
 ### Front-End Development 
