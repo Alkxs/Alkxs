@@ -2,11 +2,11 @@
 
 <div style="width: 50%; margin: 0 auto;">
   
----
+
 
 <h1 align="center">About Me</h1>
   
----
+
 
   
 - :wave: I'm Alex Lauri, a full-stack web developer
@@ -28,9 +28,9 @@
   
 <br />
 
----
+
 <h1 align="center">My Stack</h1>
----
+
 
 ### Front-End Development 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,17 +55,17 @@
 
 <br />
 
----
+
 <h1 align="center">My Stack</h1>
----
+
 
 <div align="center" width="100%">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark)](https://git.io/streak-stats)
 </div>
 
----
+
 <h1 align="center">Projects</h1>
----
+
 
 <table bordercolor="#66b2b2">
   
