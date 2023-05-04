@@ -1,4 +1,4 @@
-<div align="center"><img src="./Header.png"></div>
+<div align="center"><img src="./Header.png" width="100%"></div>
 
 <div style="width: 50%; margin: 0 auto;">
   
