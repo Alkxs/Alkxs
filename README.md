@@ -60,7 +60,10 @@
 
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark)](https://git.io/streak-stats)
+  
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="[http://github-readme-streak-stats.herokuapp.com?user=your_github_username&theme=javascript-dark](https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark)" alt="GitHub Streak Stats">
+  </a>
 </div>
 
 
