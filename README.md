@@ -1,7 +1,6 @@
- 
-
-
+---
 <img src="./Header.png" width="100%">
+---
 ---
 ### :rocket: About Me
 ---
