@@ -60,59 +60,7 @@
 
 
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your_github_username&theme=javascript-dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark)](https://git.io/streak-stats)
 </div>
-
-
-<h1 align="center">Projects</h1>
-
-
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">TheraFit</h3>
-      <br />
-      <a target="_blank" href="https://therafit.netlify.app/">
-            <img src="#" width="100%" alt="TheraFit App"/>
-        </a>
-        <br />
-        <p align="center">
-    </td>
-    
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
-      <br />
-      <a target="_blank" href="https://alexlauri-portfolio.netlify.app/">
-            <img src="#" width="100%" alt="Portfolio App"/>
-        </a>
-        <br />
-        <p align="center">
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <!-- Empty cell to center the third project -->
-    </td>
-    
-    <td width="50%" valign="top">
-      <h3 align="center">Quizzle</h3>
-      <br />
-      <a target="_blank" href="https://quizzle-app.netlify.app/">
-            <img src="#" width="100%" alt="Quizz App"/>
-        </a>
-        <br />
-        <p align="center">
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" valign="top" align="center">
-      <!-- Empty cell to shift the third project up -->
-    </td>
-  </tr>
-
-</table>
 
 
