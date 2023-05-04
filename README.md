@@ -60,7 +60,7 @@
 
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your_github_username&theme=javascript-dark)](https://git.io/streak-stats)
 </div>
 
 
