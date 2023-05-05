@@ -61,24 +61,21 @@
         <h3>TheraFit</h3>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgzZGQ4YjhlNmI2NTQ3ZjkwYTJlZjQ0NTM0MjUyYWI4OGMyZGJjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/w4C3dJPr8J58eMncd5/giphy.gif" alt="TheraFit GIF" width="100%">
         <div style="height: 60px;">A workout planner designed for customizing workouts and exercises, delivering a truly personalized fitness experience.</div>
-      <a href="https://github.com/Alkxs/TheraFit" target="_blank">See Source Code</a>
-      <a href="https://therafit.netlify.app" target="_blank">See Live</a>
+
     </td>
     <td width="33.33%" align="center">
       
         <h3>Portfolio</h3>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNiNjQyOWYyYTUxYjFjNDUxZGQ2NjFiYmQxZjI2M2RhZDk2YmExOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/51gUsjbUcl7kRshN0B/giphy.gif" alt="Portfolio GIF" width="100%">
         <div style="height: 60px;">My portfolio app, built from scratch, highlights my skills and presents a diverse range of projects I've accomplished.</div>
-      <a href="https://github.com/Alkxs/Personal-Portfolio" target="_blank">See Source Code</a>
-      <a href="https://alexlauri-portfolio.netlify.app/" target="_blank">See Live</a>
+      
     </td>
     <td width="33.33%" align="center">
       
         <h3>Quizzle</h3>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlYWRjNzM2Y2JmNjVkMDEwZmFiNzg5NTM0OTg0ZmNkOWFhYTJkMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uE0yv44dqz9dkNymPW/giphy.gif" alt="Quizzle GIF" width="100%">
         <div style="height: 60px;">An immersive quiz app providing a customized trivia experience, enabling you to select options and challenge yourself.</div>
-      <a href="https://github.com/Alkxs/Quizzle" target="_blank">See Source Code</a>
-      <a href="https://quizzle-app.netlify.app/" target="_blank">See Live</a>
+      
     </td>
   </tr>
 </table>
