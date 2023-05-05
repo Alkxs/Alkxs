@@ -62,7 +62,7 @@
         <p style="height: 60px;">A workout planner designed for customizing workouts and exercises, delivering a truly personalized fitness experience.</p>
     </td>
     <td width="33.33%" align="center">
-        <a href="https://github.com/Alkxs/Personal-Portfolio" target="_blank"><Portfolio</a>
+        <a href="https://github.com/Alkxs/Personal-Portfolio" target="_blank"><Portfolio></a>
       <a href="https://github.com/Alkxs/Personal-Portfolio" target="_blank">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNiNjQyOWYyYTUxYjFjNDUxZGQ2NjFiYmQxZjI2M2RhZDk2YmExOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/51gUsjbUcl7kRshN0B/giphy.gif" alt="Portfolio GIF"></a>
         <p style="height: 60px;">My portfolio app, built from scratch, highlights my skills and presents a diverse range of projects I've accomplished.</p>
