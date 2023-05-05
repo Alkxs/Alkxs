@@ -73,9 +73,10 @@
     <td width="33.33%" align="center">
       <a href="https://github.com/Alkxs/Quizzle" target="_blank">
       <h3>Quizzle</h3>
+         </a>
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlYWRjNzM2Y2JmNjVkMDEwZmFiNzg5NTM0OTg0ZmNkOWFhYTJkMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uE0yv44dqz9dkNymPW/giphy.gif" alt="Quizzle GIF" width="100%">
       <div style="height: 60px;">An immersive quiz app providing a customized trivia experience, enabling you to select options and challenge yourself.</div>
-        </a>
+       
     </td>
   </tr>
 </table>
