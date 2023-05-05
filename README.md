@@ -57,11 +57,10 @@
 <table bordercolor="#66b2b2" width="100%">
   <tr>
     <td width="33.33%" align="center">
-       <a href="https://github.com/Alkxs/TheraFit" target="_blank">
-        <h3>TheraFit</h3>
+       <a href="https://github.com/Alkxs/TheraFit" target="_blank">TheraFit</a>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgzZGQ4YjhlNmI2NTQ3ZjkwYTJlZjQ0NTM0MjUyYWI4OGMyZGJjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/w4C3dJPr8J58eMncd5/giphy.gif" alt="TheraFit GIF" width="100%">
         <div style="height: 60px;">A workout planner designed for customizing workouts and exercises, delivering a truly personalized fitness experience.</div>
-     </a>
+     
     </td>
     <td width="33.33%" align="center">
             <a href="https://github.com/Alkxs/Personal-Portfolio" target="_blank">
