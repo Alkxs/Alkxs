@@ -78,6 +78,7 @@
     </td>
   </tr>
 </table>
+
 <br />
 
 <h1 align="center">My Stats</h1>
