@@ -54,10 +54,6 @@
 
 <h1 align="center">My Projects</h1>
 
-<a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
-        </a>
-
 <table bordercolor="#66b2b2" width="100%">
   <tr>
     <td width="33.33%" align="center">
