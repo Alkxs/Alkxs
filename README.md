@@ -57,20 +57,20 @@
 <table bordercolor="#66b2b2" width="100%">
   <tr>
     <td width="33.33%" align="center">
-       TheraFit
+      <h3>TheraFit</h3> 
       <br />
         <a href="https://github.com/Alkxs/TheraFit" target="_blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgzZGQ4YjhlNmI2NTQ3ZjkwYTJlZjQ0NTM0MjUyYWI4OGMyZGJjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/w4C3dJPr8J58eMncd5/giphy.gif" alt="TheraFit GIF" width="100%"></a>
         <p style="height: 60px;">A workout planner designed for customizing workouts and exercises, delivering a truly personalized fitness experience.</p>
     </td>
     <td width="33.33%" align="center">
-       Portfolio
+       <h3>Portfolio</h3>
       <br />
       <a href="https://github.com/Alkxs/Personal-Portfolio" target="_blank">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNiNjQyOWYyYTUxYjFjNDUxZGQ2NjFiYmQxZjI2M2RhZDk2YmExOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/51gUsjbUcl7kRshN0B/giphy.gif" alt="Portfolio GIF" width="100%"></a>
         <p style="height: 60px;">My portfolio app, built from scratch, highlights my skills and presents a diverse range of projects I've accomplished.</p>
     </td>
     <td width="33.33%" align="center">
-        Quizzle
+        <h3>Quizzle</h3>
       <br />
       <a href="https://github.com/Alkxs/Quizzle" target="_blank">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRlYWRjNzM2Y2JmNjVkMDEwZmFiNzg5NTM0OTg0ZmNkOWFhYTJkMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uE0yv44dqz9dkNymPW/giphy.gif" alt="Quizzle GIF" width="100%"></a>
