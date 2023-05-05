@@ -86,9 +86,9 @@
 <h1 align="center">My Stats</h1>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
+  
     <img src="https://streak-stats.demolab.com?user=Alkxs&theme=javascript-dark" alt="GitHub Streak">
-  </a>
+  
 </div>
 
 
