@@ -9,7 +9,7 @@
 - :wave: I'm Alex Lauri, a full-stack web developer
 - ⚡️  Proud member of the incredible 100Devs community.
 - 👨‍💻 I'm currently refining my skills in Data Structures and Algorithms.
-- 🤓 I’m about to start learning TypeScript
+- 🤓 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
 - 🥅  2023 Goals: to find interesting opportunities as a web developer
 - :zap: Fun fact: I love to play sports and read personal development books 
