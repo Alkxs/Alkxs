@@ -81,14 +81,6 @@
   </tr>
 </table>
 
-<br />
-
-<h1 align="center">My Stats</h1>
-
-<div align="center">
-  
-  
-</div>
 
 
 
