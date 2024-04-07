@@ -11,7 +11,7 @@
 - 👨‍💻 I'm currently refining my skills in Data Structures and Algorithms.
 - 🤓 I’m currently learning Next.js
 - 👯 I’m looking to collaborate to open source projects to contribute, expand my knowledge and find a community 
-- 🥅  2023 Goals: to find interesting opportunities as a web developer
+- 🥅  2024 Goals: to find interesting opportunities as a web developer
 - :zap: Fun fact: I love to play sports and read personal development books 
 - 📫 How to reach me: 
 
