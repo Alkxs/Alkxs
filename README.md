@@ -10,7 +10,6 @@
 - ⚡️  Proud member of the incredible 100Devs community.
 - 👨‍💻 I'm currently refining my skills in Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on open-source projects to contribute, expand my knowledge, and find a community 
-- 🥅  2024 Goals: to find interesting opportunities as a software developer
 - :zap: Fun fact: I love to play sports and read personal development books 
 - 📫 How to reach me: 
 
